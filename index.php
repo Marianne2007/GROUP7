@@ -40,9 +40,9 @@ gg {
 <h1 style="color:#FC5658;font-family:verdana;font-size:300%;"><center><b>HOMEPAGE</b></center></h1>
 </div> 
 
-<a href="https://usls.instructure.com/courses/10562"><center><img src="file:///C:/Users/SIM/Documents/HTML/sale%20(1).png" alt="Trulli" width="400" height="300"></center)</a href>
-<a href="https://usls.instructure.com/courses/10553"><right><img src="file:///C:/Users/SIM/Documents/HTML/asd.png" alt="Trulli" width="400" height="300"></right></a href>
-<a href="https://usls.instructure.com/courses/10589"><left><img src="file:///C:/Users/SIM/Documents/HTML/sale.png" alt="Trulli" width="400" height="300"></left></a href>
+<a href="https://usls.instructure.com/courses/10562"><center><img src="https://ibb.co/VW5btG7" alt="Trulli" width="400" height="300"></center)</a href>
+<a href="https://usls.instructure.com/courses/10553"><right><img src="https://ibb.co/f25S8dC" alt="Trulli" width="400" height="300"></right></a href>
+<a href="https://usls.instructure.com/courses/10589"><left><img src="https://ibb.co/gvQZ9qR" alt="Trulli" width="400" height="300"></left></a href>
 
 <div class="op">
 <gg style="color:#FC5658;">GROUP 7 MEMBERS</gg>
